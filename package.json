@@ -19,6 +19,6 @@
   "engines": {
     "node": ">= 0.8"
   },
-  "homepage": "https://github.com/svandecappelle/log4js-scrib-js",
+  "homepage": "https://github.com/svandecappelle/log4js-scrib-js"
 }
 
