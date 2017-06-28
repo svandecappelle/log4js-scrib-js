@@ -1,0 +1,24 @@
+{
+  "name": "log4js-scribe-js",
+  "version": "0.0.1",
+  "description": "A custom appender for log4js capable of sending logs to a scribe js server",
+  "keywords": [
+    "scribe-js",
+    "log4js",
+    "logging"
+  ],
+  "author": {
+    "name": "svandecappelle",
+    "email": "steeve.vandecappelle@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "dependencies": {
+    "log4js": >="0.6.22"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "homepage": "https://github.com/svandecappelle/log4js-scrib-js",
+}
+
